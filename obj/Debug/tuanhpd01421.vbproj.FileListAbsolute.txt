@@ -1,0 +1,8 @@
+C:\Users\Nam\Desktop\tuanhpd01421\tuanhpd01421\tuanhpd01421\bin\tuanhpd01421.dll
+C:\Users\Nam\Desktop\tuanhpd01421\tuanhpd01421\tuanhpd01421\bin\tuanhpd01421.pdb
+C:\Users\Nam\Desktop\tuanhpd01421\tuanhpd01421\tuanhpd01421\bin\tuanhpd01421.xml
+C:\Users\Nam\Desktop\tuanhpd01421\tuanhpd01421\tuanhpd01421\obj\Debug\tuanhpd01421.Resources.resources
+C:\Users\Nam\Desktop\tuanhpd01421\tuanhpd01421\tuanhpd01421\obj\Debug\tuanhpd01421.vbproj.GenerateResource.Cache
+C:\Users\Nam\Desktop\tuanhpd01421\tuanhpd01421\tuanhpd01421\obj\Debug\tuanhpd01421.dll
+C:\Users\Nam\Desktop\tuanhpd01421\tuanhpd01421\tuanhpd01421\obj\Debug\tuanhpd01421.xml
+C:\Users\Nam\Desktop\tuanhpd01421\tuanhpd01421\tuanhpd01421\obj\Debug\tuanhpd01421.pdb
